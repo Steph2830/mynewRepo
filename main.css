@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+        <title>My Video Game Blog </title>
+        <link rel="stylesheet" href="main.css">
+        <style>
+  body { 
+    background-color:lightcoral
+  }
+
+  
+  h1,h2,h3,h4 {
+    color: white;
+    text-align: center;
+  
+  }
+  .center{
+    text-align: center;
+           color: lightblue
+  }
+  #para1{
+    color: limegreen;
+    
+  }
+  #para2{
+    color:darkblue;
+  }
+  #para3{
+    color: darkblue;
+  }
+  #para4{
+    color: darkblue;
+  }
+  #para5{
+    color: darkblue;
+  }
+  div ul{
+    color:black;
+  }
+  p {font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 25px;
+    font-color: black;
+  }
+  #GameList{
+    background-image: url("xbox.png");
+    width: 320px;
+  padding: 10px;
+  border: 15px solid gray;
+  margin: 0; 
+  }
+  #img1{
+    float:left
+  }
+  #img2{
+    float: right
+  }
+  #img3{
+    float: left;
+  }
+  #img4{
+    float: right;
+  }
+  #img5{
+    float: left;
+  }
+  #img6{
+    float: left;
+  }
+  #img7{
+    float: right;
+  }
+  #img8{
+    float: right;
+  }
+  h1 {
+    text-decoration: underline;
+  }
+  h2 {
+    text-decoration: underline;
+  }
+  h3 {
+    text-decoration: underline;
+  }
+  h4 {
+    text-decoration: underline;
+  }
+  
+  
+  
+  
+        </style>
+</head>
+<body>
+
+</body>
+</html>
